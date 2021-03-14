@@ -1,0 +1,3 @@
+*.pyc
+*.lock
+rust-tooling/*/target/*
